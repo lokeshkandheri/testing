@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "My jenkins updated project" );
+        System.out.println( "My jenkins updated Correct project" );
     }
 }
